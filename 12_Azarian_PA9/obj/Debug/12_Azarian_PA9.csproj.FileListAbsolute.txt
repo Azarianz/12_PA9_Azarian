@@ -1,0 +1,10 @@
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\obj\Debug\12_Azarian_PA9.csprojAssemblyReference.cache
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\obj\Debug\_12_Azarian_PA9.Form1.resources
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\obj\Debug\_12_Azarian_PA9.Properties.Resources.resources
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\obj\Debug\12_Azarian_PA9.csproj.GenerateResource.cache
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\obj\Debug\12_Azarian_PA9.csproj.CoreCompileInputs.cache
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\bin\Debug\12_Azarian_PA9.exe.config
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\bin\Debug\12_Azarian_PA9.exe
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\bin\Debug\12_Azarian_PA9.pdb
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\obj\Debug\12_Azarian_PA9.exe
+C:\Users\Azarian\Desktop\12_PA9_Azarian\12_Azarian_PA9\obj\Debug\12_Azarian_PA9.pdb
